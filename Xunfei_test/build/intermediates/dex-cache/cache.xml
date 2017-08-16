@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\programming\tool and data\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_a4c86ec2bb4a3e62a265fbb136add12cb4ae8c1d.jar" />
+    </item>
+    <item
+        jar="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_516d0dbaae88b22bdb0f5cb56ba8abec1a20748c.jar" />
+    </item>
+    <item
+        jar="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_b39362720611c1c6c205ac5746c4c9ae156f66b7.jar" />
+    </item>
+    <item
+        jar="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_c17d6618ad7c6c90e10a5c29a41ee5bc496c7481.jar" />
+    </item>
+    <item
+        jar="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_036311ff6e7d6ca126fb978b8696ece6e96ac911.jar" />
+    </item>
+    <item
+        jar="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="d6fc117a80f0f8195175c457fd6bbf5ff01801ae">
+        <dex dex="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9739ff4bd63855231642f95c9fc9cda6cc38bf6c.jar" />
+    </item>
+    <item
+        jar="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\libs\Msc.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="4f11330834f00ecbf76acef91a5e3be24b99f9fd">
+        <dex dex="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\pre-dexed\debug\Msc_f0e5857f6ac1396a357df203a822d6694bf642e7.jar" />
+    </item>
+    <item
+        jar="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_ad8bbe398b7043e0a79ac73d1a78a14d30b8ab01.jar" />
+    </item>
+    <item
+        jar="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="559a1c95b44368687ed743ff3437e2e8579fbc01">
+        <dex dex="E:\programming\code\Android\AndroidStudioProjects\Xunfei_test\app\build\intermediates\pre-dexed\debug\instant-run_947c31359b46eb6ab8b25a74f8b4490dd04d1816.jar" />
+    </item>
+
+</items>
